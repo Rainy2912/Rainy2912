@@ -1,20 +1,46 @@
-### Hi there 👋
+# Hello I'm **ON**
 
-<br />
-<h2> 🔧 Use Code Language 📚 </h2>
+<!--
+**qazplm5602/qazplm5602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
-![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff)
+Here are some ideas to get you started:
 
-<br/>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
+![Domi's GitHub stats](https://github-readme-stats.vercel.app/api?username=qazplm5602&show_icons=true&theme=blue-green)
+</br>
+![discord](https://discord.c99.nl/widget/theme-1/433605377209139206.png)
 
+📫 **Domi Contact** </br>
+<a href="http://domi.kr/" target="_blank"><img src="https://img.shields.io/badge/domiSite-ABF200?style=flat-square&logo=HomeAdvisor&logoColor=000"/></a>
+<img src="https://img.shields.io/badge/%EB%8F%84%EB%AF%B8%235555-5865F2?style=flat-square&logo=Discord&logoColor=FFF"/>
 
+🔧 **Use Code Language** </br>
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=Lua&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
 
+⛏️ **Use FrameWork** </br>
+<img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
 
+📖 **Suddddddy Stack** </br>
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
+
+🎮 **Development Server** ([Fivem](https://fivem.net/) [GTA RP 인생모드]) </br>
+> I don't do this after March 2023
