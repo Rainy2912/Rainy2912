@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![ON's GitHub stats](https://github-readme-stats.vercel.app/api?username=qazplm5602&show_icons=true&theme=blue-green)
+
 </br>
 
 📫 **ON Contact** </br>
