@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 ![Rainy2912's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rainy2912&show_icons=true&theme=blue-green)
 </br>
+📫 Rainy2912 Contact </br>
+<a href="http://domi.kr/" target="_blank"><img src="https://img.shields.io/badge/Site-ABF200?style=flat-square&logo=HomeAdvisor&logoColor=000%22/%3E</a>
 
 
 </br>
-📫 Rainy2912 Contact </br>
-<a href="http://domi.kr/" target="_blank"><img src="https://img.shields.io/badge/Site-ABF200?style=flat-square&logo=HomeAdvisor&logoColor=000%22/%3E</a>
 
 
 
