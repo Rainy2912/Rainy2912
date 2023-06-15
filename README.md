@@ -1,5 +1,4 @@
 # Hello I'm **Rainy2912
-/**
 
 <!--
 **qazplm5602/qazplm5602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Rainy2912's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rainy2912&show_icons=true&theme=dark)
+![Rainy2912's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rainy2912&show_icons=true&theme=blue-green)
 </br>
 
 </br>
